@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:15.896473
+#+DATE: 2015-08-30 20:09:18.006083
 #+TITLE: 注維摩詰經
 #+PROPERTY: CBETA_ID T38n1775
 #+PROPERTY: ID KR6i0078
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1775
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIA
 #+PROPERTY: LASTPB <pb:KR6i0078_T_000-0327a>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0078_T_007-0390b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 注維摩詰經卷第七¶
+注維摩詰經卷第七¶
 ¶
 後秦釋僧肇選¶
 
-8佛道品(七)
-:PROPERTIES:
-:head: 佛道品第八
-:END:
-¶
+佛道品第八¶
 
 爾時文殊師利問維摩詰言菩薩云何通達佛¶
 道。
@@ -166,7 +161,7 @@
 肇曰。法¶
 身大士生死永盡。況老病乎。¶
 
-示有資生而恒觀無常實無所貪示有妻妾婇¶
+示有資生而恒觀無常實無所貪示有妻妾綵¶
 女而常遠離五欲淤泥。
 
 什曰。如太子慕魄¶
