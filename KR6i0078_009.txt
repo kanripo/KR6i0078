@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:15.960942
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:17
 #+TITLE: 注維摩詰經
 #+PROPERTY: CBETA_ID T38n1775
 #+PROPERTY: ID KR6i0078
@@ -17,7 +17,7 @@
 ¶
 後秦釋僧肇選¶
 
-11菩薩行品(九)
+* 11菩薩行品(九)
 :PROPERTIES:
 :head: 菩薩行品第十一
 :END:
@@ -1016,7 +1016,7 @@
 曾有言釋迦牟尼佛乃能於此善行方便言已¶
 忽然不現還到彼國。¶
 
-12見阿閦佛品(九)
+* 12見阿閦佛品(九)
 :PROPERTIES:
 :head: 見阿閦佛品第十二
 :END:

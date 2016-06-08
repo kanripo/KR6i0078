@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:15.857230
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:17
 #+TITLE: 注維摩詰經
 #+PROPERTY: CBETA_ID T38n1775
 #+PROPERTY: ID KR6i0078
@@ -17,7 +17,7 @@
 ¶
 後秦釋僧肇撰¶
 
-6不思議品(六)
+* 6不思議品(六)
 :PROPERTIES:
 :head: 不思議品第六
 :END:
@@ -302,7 +302,7 @@
 庶所以成。物不無由而莫之能測。故權智¶
 二門為不思議之本也。¶
 
-7觀眾生品(六)
+* 7觀眾生品(六)
 :PROPERTIES:
 :head: 觀眾生品第七
 :END:

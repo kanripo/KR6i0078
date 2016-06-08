@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:15.766377
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:17
 #+TITLE: 注維摩詰經
 #+PROPERTY: CBETA_ID T38n1775
 #+PROPERTY: ID KR6i0078
@@ -17,7 +17,7 @@
 ¶
 後秦釋僧肇選¶
 
-4菩薩品(四)
+* 4菩薩品(四)
 :PROPERTIES:
 :head: 菩薩品
 :END:

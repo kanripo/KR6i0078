@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:15.672236
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:17
 #+TITLE: 注維摩詰經
 #+PROPERTY: CBETA_ID T38n1775
 #+PROPERTY: ID KR6i0078
@@ -17,7 +17,7 @@
 ¶
 後秦釋僧肇選¶
 
-2方便品(二)
+* 2方便品(二)
 :PROPERTIES:
 :head: 方便品第二
 :END:
@@ -784,7 +784,8 @@
 如是長者維摩詰為諸問疾者如應說法令無¶
 數千人皆發阿耨多羅三藐三菩提心。¶
 
-3弟子品(二-三)
+* 3弟子品(二-三)
+** 1
 :PROPERTIES:
 :head: 弟子品第三
 :END:

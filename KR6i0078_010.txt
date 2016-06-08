@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:16.007476
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:17
 #+TITLE: 注維摩詰經
 #+PROPERTY: CBETA_ID T38n1775
 #+PROPERTY: ID KR6i0078
@@ -16,7 +16,7 @@
 ¶
 後秦釋僧肇選¶
 
-13法供養品(一○)
+* 13法供養品(一〇)
 :PROPERTIES:
 :head: 法供養品第十三
 :END:
@@ -640,7 +640,7 @@
 肇曰。¶
 行法養。即恭敬佛也。¶
 
-14囑累品(一○)
+* 14囑累品(一〇)
 :PROPERTIES:
 :head: 囑累品第十四
 :END:
@@ -852,7 +852,7 @@
 注維摩詰經卷第十¶
 ¶
 
-新彫維摩經後序
+* 新彫維摩經後序
 :PROPERTIES:
 :head: 新彫維摩經後序
 :END:

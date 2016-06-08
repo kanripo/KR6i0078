@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:15.720155
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:17
 #+TITLE: 注維摩詰經
 #+PROPERTY: CBETA_ID T38n1775
 #+PROPERTY: ID KR6i0078
@@ -13,7 +13,8 @@
 ¶
 ¶
 
- 注維摩詰經卷第三(弟子品)¶
+ 
+** 2注維摩詰經卷第三(弟子品)¶
 ¶
 後秦釋僧肇選¶
 
