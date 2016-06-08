@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:17.919915
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:17
 #+TITLE: 注維摩詰經
 #+PROPERTY: CBETA_ID T38n1775
 #+PROPERTY: ID KR6i0078
@@ -16,7 +16,7 @@
 ¶
 ¶
 
-維摩詰經文殊師利問疾品第五集解¶
+* 維摩詰經文殊師利問疾品第五集解¶
 
 爾時佛告文殊師利。
 
