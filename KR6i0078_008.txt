@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:15.925973
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:17
 #+TITLE: 注維摩詰經
 #+PROPERTY: CBETA_ID T38n1775
 #+PROPERTY: ID KR6i0078
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1775
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0078_T_000-0327a>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0078_T_008-0396b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 注維摩詰經卷第八¶
+注維摩詰經卷第八¶
 ¶
 後秦釋僧肇選¶
 
-9入不二法門品(八)
-:PROPERTIES:
-:head: 入不二法門品第九
-:END:
-¶
+* 入不二法門品第九¶
 
 爾時維摩詰謂眾菩薩言諸仁者云何菩薩入¶
 不二法門。
@@ -487,11 +482,7 @@
 說是入不二法門品時於此眾中五千菩薩皆¶
 入不二法門得無生法忍。¶
 
-10香積佛品(八)
-:PROPERTIES:
-:head: 香積佛品第十
-:END:
-¶
+* 香積佛品第十¶
 
 於是舍利弗心念日時欲至此諸菩薩當於何¶
 食。
@@ -828,8 +819,7 @@
 <pb:KR6i0078_T_008-0402b>¶
 中不了癡也。¶
 
-說除難法度八難者以大乘法度樂小乘者¶
-以諸善根濟無德者常以四攝成就眾生是為¶
+說除難法度八難者以大乘法度樂小乘者以諸善根濟無德者常以四攝成就眾生是為¶
 十。
 
 肇曰。夫善因惡起淨由穢增。此土十惡¶

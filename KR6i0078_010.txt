@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:16.007476
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:17
 #+TITLE: 注維摩詰經
 #+PROPERTY: CBETA_ID T38n1775
 #+PROPERTY: ID KR6i0078
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1775
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0078_T_000-0327a>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0078_T_010-0413c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
-
- 注維摩詰經卷第十¶
+注維摩詰經卷第十¶
 ¶
 後秦釋僧肇選¶
 
-13法供養品(一○)
-:PROPERTIES:
-:head: 法供養品第十三
-:END:
-¶
+* 法供養品第十三¶
 
 爾時釋提桓因於大眾中白佛言世尊我雖從¶
 佛及文殊師利聞百千經未曾聞此不可思議¶
@@ -640,11 +635,7 @@
 肇曰。¶
 行法養。即恭敬佛也。¶
 
-14囑累品(一○)
-:PROPERTIES:
-:head: 囑累品第十四
-:END:
-¶
+* 囑累品第十四¶
 
 於是佛告彌勒菩薩言彌勒我今以是無量億¶
 阿僧祇劫所集阿耨多羅三藐三菩提法。
@@ -852,11 +843,7 @@
 注維摩詰經卷第十¶
 ¶
 
-新彫維摩經後序
-:PROPERTIES:
-:head: 新彫維摩經後序
-:END:
-¶
+* 新彫維摩經後序¶
 ¶
 推誠保德翊戴功臣金紫光祿大夫行¶
 尚書左丞上柱國清河郡開國侯食邑¶
